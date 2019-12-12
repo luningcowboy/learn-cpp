@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.12)
+project(cpp-primer-ch1)
+add_executable(1.3.main 1.3.main)
+add_executable(1.4.main 1.4.main)
+add_executable(1.5.main 1.5.main)
