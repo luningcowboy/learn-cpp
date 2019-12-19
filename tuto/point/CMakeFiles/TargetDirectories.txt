@@ -1,0 +1,3 @@
+/Users/tu/self/learn/learn-cpp/tuto/point/CMakeFiles/rebuild_cache.dir
+/Users/tu/self/learn/learn-cpp/tuto/point/CMakeFiles/edit_cache.dir
+/Users/tu/self/learn/learn-cpp/tuto/point/CMakeFiles/point.dir
