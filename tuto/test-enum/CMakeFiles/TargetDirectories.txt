@@ -1,0 +1,3 @@
+/Users/tu/self/learn/learn-cpp/tuto/test-enum/CMakeFiles/rebuild_cache.dir
+/Users/tu/self/learn/learn-cpp/tuto/test-enum/CMakeFiles/edit_cache.dir
+/Users/tu/self/learn/learn-cpp/tuto/test-enum/CMakeFiles/test-enum.dir
